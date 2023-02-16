@@ -10,6 +10,10 @@ Numpy
 Pandas
 Scikit-learn
 Matplotlib
+Seaborne
+
+# Data Source
+For this exercise, the MNIST dataset was sourced as a CSV file from the following Kaggle dataset: https://www.kaggle.com/datasets/karthikshankarindia/mnist-train-and-test. Both the training and test data were combined into a single dataset for analysis.
 
 # Data Preprocessing
 Before the analysis is conducted, the data must be preprocessed to ensure it is in the correct format. This includes dividing the dataset into training, development, and test sets. The following techniques are used for data preprocessing:
